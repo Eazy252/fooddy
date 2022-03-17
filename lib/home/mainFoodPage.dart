@@ -1,10 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:fooddy/assets/colors.dart';
+import 'package:fooddy/colors.dart';
 import 'package:fooddy/home/foodPageBody.dart';
 import 'package:fooddy/utils/widgets/bigText.dart';
 import 'package:fooddy/utils/widgets/smallText.dart';
-
-import '../assets/colors.dart';
 
 class MainFoodPage extends StatefulWidget {
   const MainFoodPage({Key? key}) : super(key: key);
